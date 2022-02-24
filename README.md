@@ -3,7 +3,7 @@
 <span style="color: green"> Some green text </span>
 ```diff
 - hello there
-+ text in green
++ we love you
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
