@@ -6,8 +6,8 @@
 
 
 ```diff
-- hello there
-+ we love you
+ hello there
+ we love you
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
